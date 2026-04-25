@@ -1,0 +1,367 @@
+{
+  "model": "fsrcnn",
+  "scale": 2,
+  "dataset_root": "/Users/jesusjimenez/Code/computational photography/final_project/datasets/DIV2K",
+  "split": "val",
+  "crop_border": 2,
+  "bicubic": {
+    "psnr": 32.62400000877672,
+    "ssim": 0.9153394638299599
+  },
+  "model_results": {
+    "psnr": 34.86967013820473,
+    "ssim": 0.940750457169936
+  },
+  "per_image": [
+    {
+      "name": "0801.png",
+      "bicubic_psnr": 34.65485745415028,
+      "bicubic_ssim": 0.9521264407384465,
+      "model_psnr": 36.746786788617854,
+      "model_ssim": 0.970263881895654
+    },
+    {
+      "name": "0802.png",
+      "bicubic_psnr": 40.19534766049346,
+      "bicubic_ssim": 0.9672009598434952,
+      "model_psnr": 42.12126038214666,
+      "model_ssim": 0.9766824030826161
+    },
+    {
+      "name": "0803.png",
+      "bicubic_psnr": 41.60939199757762,
+      "bicubic_ssim": 0.9871854159266176,
+      "model_psnr": 46.53183823756472,
+      "model_ssim": 0.9924698277580121
+    },
+    {
+      "name": "0804.png",
+      "bicubic_psnr": 31.365093479728344,
+      "bicubic_ssim": 0.9038759883029787,
+      "model_psnr": 33.39011137482491,
+      "model_ssim": 0.933232762999461
+    },
+    {
+      "name": "0805.png",
+      "bicubic_psnr": 33.25000195294316,
+      "bicubic_ssim": 0.9082563847036469,
+      "model_psnr": 34.710179196980505,
+      "model_ssim": 0.9304092551789732
+    },
+    {
+      "name": "0806.png",
+      "bicubic_psnr": 32.46515921348261,
+      "bicubic_ssim": 0.9375792795755107,
+      "model_psnr": 34.99585202371905,
+      "model_ssim": 0.9595845043223854
+    },
+    {
+      "name": "0807.png",
+      "bicubic_psnr": 23.552233892864574,
+      "bicubic_ssim": 0.725969452447987,
+      "model_psnr": 24.657607781257497,
+      "model_ssim": 0.7985839180205241
+    },
+    {
+      "name": "0808.png",
+      "bicubic_psnr": 30.184994643615678,
+      "bicubic_ssim": 0.9017588387093358,
+      "model_psnr": 31.525466570538576,
+      "model_ssim": 0.9258538704746838
+    },
+    {
+      "name": "0809.png",
+      "bicubic_psnr": 38.505578737410445,
+      "bicubic_ssim": 0.9649584671634038,
+      "model_psnr": 41.0352003851662,
+      "model_ssim": 0.9797093313486842
+    },
+    {
+      "name": "0810.png",
+      "bicubic_psnr": 31.439046073479577,
+      "bicubic_ssim": 0.9215575699722709,
+      "model_psnr": 33.562301600351454,
+      "model_ssim": 0.9526100528476971
+    },
+    {
+      "name": "0811.png",
+      "bicubic_psnr": 33.807185146446,
+      "bicubic_ssim": 0.9230480885706083,
+      "model_psnr": 35.36453664723807,
+      "model_ssim": 0.9458920539276416
+    },
+    {
+      "name": "0812.png",
+      "bicubic_psnr": 31.515655518573375,
+      "bicubic_ssim": 0.9144155243898,
+      "model_psnr": 33.58916643153427,
+      "model_ssim": 0.9418711394478949
+    },
+    {
+      "name": "0813.png",
+      "bicubic_psnr": 35.030580337355566,
+      "bicubic_ssim": 0.9402911842518089,
+      "model_psnr": 37.14874504891067,
+      "model_ssim": 0.9531898050971898
+    },
+    {
+      "name": "0814.png",
+      "bicubic_psnr": 32.34483453035905,
+      "bicubic_ssim": 0.9547451885726264,
+      "model_psnr": 34.20365922959976,
+      "model_ssim": 0.969337822035106
+    },
+    {
+      "name": "0815.png",
+      "bicubic_psnr": 38.840581208954745,
+      "bicubic_ssim": 0.9657571144602608,
+      "model_psnr": 40.6976219416259,
+      "model_ssim": 0.9729412452288086
+    },
+    {
+      "name": "0816.png",
+      "bicubic_psnr": 35.63139804713891,
+      "bicubic_ssim": 0.9341595735688888,
+      "model_psnr": 37.426114181309956,
+      "model_ssim": 0.9529787955600538
+    },
+    {
+      "name": "0817.png",
+      "bicubic_psnr": 36.46620708195657,
+      "bicubic_ssim": 0.9496553616824355,
+      "model_psnr": 38.19833426524883,
+      "model_ssim": 0.9610916096520356
+    },
+    {
+      "name": "0818.png",
+      "bicubic_psnr": 32.86881391745664,
+      "bicubic_ssim": 0.9614580470073808,
+      "model_psnr": 35.8336038955948,
+      "model_ssim": 0.9778062423286406
+    },
+    {
+      "name": "0819.png",
+      "bicubic_psnr": 32.812646541055635,
+      "bicubic_ssim": 0.9380968062111082,
+      "model_psnr": 34.819912527199094,
+      "model_ssim": 0.9622130478899406
+    },
+    {
+      "name": "0820.png",
+      "bicubic_psnr": 28.182600132844804,
+      "bicubic_ssim": 0.9022956752060661,
+      "model_psnr": 31.278782390911143,
+      "model_ssim": 0.9421189241713497
+    },
+    {
+      "name": "0821.png",
+      "bicubic_psnr": 32.932265573926486,
+      "bicubic_ssim": 0.9580140122452424,
+      "model_psnr": 37.20664757035912,
+      "model_ssim": 0.9768577847791783
+    },
+    {
+      "name": "0822.png",
+      "bicubic_psnr": 34.706448830095965,
+      "bicubic_ssim": 0.9516881012048225,
+      "model_psnr": 37.06505089146895,
+      "model_ssim": 0.9711808111453432
+    },
+    {
+      "name": "0823.png",
+      "bicubic_psnr": 29.409259987558507,
+      "bicubic_ssim": 0.9046545536981655,
+      "model_psnr": 30.94692470520572,
+      "model_ssim": 0.9299586891430096
+    },
+    {
+      "name": "0824.png",
+      "bicubic_psnr": 30.572951227989865,
+      "bicubic_ssim": 0.9336630559048923,
+      "model_psnr": 33.04283890515997,
+      "model_ssim": 0.9560949069461867
+    },
+    {
+      "name": "0825.png",
+      "bicubic_psnr": 30.738356821211113,
+      "bicubic_ssim": 0.9182067972124329,
+      "model_psnr": 33.16166480285732,
+      "model_ssim": 0.9461045622038299
+    },
+    {
+      "name": "0826.png",
+      "bicubic_psnr": 27.271043132840397,
+      "bicubic_ssim": 0.8624384830445023,
+      "model_psnr": 28.735127101351175,
+      "model_ssim": 0.8998778258628026
+    },
+    {
+      "name": "0827.png",
+      "bicubic_psnr": 36.25938023118775,
+      "bicubic_ssim": 0.946478308852112,
+      "model_psnr": 39.02850852445527,
+      "model_ssim": 0.962256830845732
+    },
+    {
+      "name": "0828.png",
+      "bicubic_psnr": 21.383802369450557,
+      "bicubic_ssim": 0.8862582492957414,
+      "model_psnr": 26.13476048676833,
+      "model_ssim": 0.9508978606544021
+    },
+    {
+      "name": "0829.png",
+      "bicubic_psnr": 29.24686391428463,
+      "bicubic_ssim": 0.6776442658172238,
+      "model_psnr": 29.893024276606415,
+      "model_ssim": 0.7156703941537922
+    },
+    {
+      "name": "0830.png",
+      "bicubic_psnr": 28.35158746981492,
+      "bicubic_ssim": 0.865704445618173,
+      "model_psnr": 29.517363968955106,
+      "model_ssim": 0.8996671124112303
+    },
+    {
+      "name": "0831.png",
+      "bicubic_psnr": 33.569498941122056,
+      "bicubic_ssim": 0.9460345308289269,
+      "model_psnr": 36.562816658568714,
+      "model_ssim": 0.9667996953475767
+    },
+    {
+      "name": "0832.png",
+      "bicubic_psnr": 35.84657499675621,
+      "bicubic_ssim": 0.9573801206055804,
+      "model_psnr": 38.77477277502577,
+      "model_ssim": 0.9729201022751005
+    },
+    {
+      "name": "0833.png",
+      "bicubic_psnr": 36.87091649383812,
+      "bicubic_ssim": 0.9553481550322481,
+      "model_psnr": 39.941064617347955,
+      "model_ssim": 0.9676666020679292
+    },
+    {
+      "name": "0834.png",
+      "bicubic_psnr": 29.482919649041204,
+      "bicubic_ssim": 0.8999545184018902,
+      "model_psnr": 30.9059715278255,
+      "model_ssim": 0.9309842806702144
+    },
+    {
+      "name": "0835.png",
+      "bicubic_psnr": 26.68445667615454,
+      "bicubic_ssim": 0.8126635934346095,
+      "model_psnr": 27.773852673287816,
+      "model_ssim": 0.8652298335289482
+    },
+    {
+      "name": "0836.png",
+      "bicubic_psnr": 28.655972424273244,
+      "bicubic_ssim": 0.8844663181162002,
+      "model_psnr": 30.84487780579824,
+      "model_ssim": 0.9220852328237172
+    },
+    {
+      "name": "0837.png",
+      "bicubic_psnr": 29.41294528700546,
+      "bicubic_ssim": 0.915935854250568,
+      "model_psnr": 32.04340168789838,
+      "model_ssim": 0.9514835355138128
+    },
+    {
+      "name": "0838.png",
+      "bicubic_psnr": 42.32549145259061,
+      "bicubic_ssim": 0.9609772250717346,
+      "model_psnr": 43.20280561893498,
+      "model_ssim": 0.9671513943199196
+    },
+    {
+      "name": "0839.png",
+      "bicubic_psnr": 32.91410100032888,
+      "bicubic_ssim": 0.9185486067344629,
+      "model_psnr": 34.09813133170342,
+      "model_ssim": 0.9381816587682692
+    },
+    {
+      "name": "0840.png",
+      "bicubic_psnr": 32.79804164116369,
+      "bicubic_ssim": 0.9292551973338661,
+      "model_psnr": 34.70048966396984,
+      "model_ssim": 0.9536284928103034
+    },
+    {
+      "name": "0841.png",
+      "bicubic_psnr": 32.22391850549674,
+      "bicubic_ssim": 0.9375785913928413,
+      "model_psnr": 34.634539312520005,
+      "model_ssim": 0.9589793628662427
+    },
+    {
+      "name": "0842.png",
+      "bicubic_psnr": 33.965487187501694,
+      "bicubic_ssim": 0.9425549278080547,
+      "model_psnr": 35.62859125333897,
+      "model_ssim": 0.9604658471734708
+    },
+    {
+      "name": "0843.png",
+      "bicubic_psnr": 42.69805439931014,
+      "bicubic_ssim": 0.9897171600328569,
+      "model_psnr": 45.59562148563816,
+      "model_ssim": 0.991949893369361
+    },
+    {
+      "name": "0844.png",
+      "bicubic_psnr": 46.35258003622208,
+      "bicubic_ssim": 0.9947285040197013,
+      "model_psnr": 50.5454782410374,
+      "model_ssim": 0.9960137886429864
+    },
+    {
+      "name": "0845.png",
+      "bicubic_psnr": 26.342370088350087,
+      "bicubic_ssim": 0.8493561565266634,
+      "model_psnr": 28.719646312206436,
+      "model_ssim": 0.8958640073248211
+    },
+    {
+      "name": "0846.png",
+      "bicubic_psnr": 27.730580011680832,
+      "bicubic_ssim": 0.8666264609549831,
+      "model_psnr": 29.9341394770493,
+      "model_ssim": 0.8966691924047477
+    },
+    {
+      "name": "0847.png",
+      "bicubic_psnr": 31.186574934076763,
+      "bicubic_ssim": 0.9199584691158733,
+      "model_psnr": 33.716100308649686,
+      "model_ssim": 0.9506347936113565
+    },
+    {
+      "name": "0848.png",
+      "bicubic_psnr": 29.59535369201751,
+      "bicubic_ssim": 0.843198987566688,
+      "model_psnr": 31.453517786232442,
+      "model_ssim": 0.8766885858714918
+    },
+    {
+      "name": "0849.png",
+      "bicubic_psnr": 25.153873899567536,
+      "bicubic_ssim": 0.8711037838236257,
+      "model_psnr": 27.937923876442117,
+      "model_ssim": 0.9265197684653752
+    },
+    {
+      "name": "0850.png",
+      "bicubic_psnr": 31.79612199609196,
+      "bicubic_ssim": 0.9124443962486141,
+      "model_psnr": 33.90077236323503,
+      "model_ssim": 0.9401995192282945
+    }
+  ]
+}

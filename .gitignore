@@ -1,0 +1,42 @@
+# Local datasets
+datasets/*
+!datasets/.gitkeep
+
+# Keep experiment artifacts, models, and metrics, but ignore other generated artifacts
+artifacts/*
+!artifacts/experiments/
+!artifacts/experiments/**
+
+# Python caches and build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and local environment files
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Notebook/runtime checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
