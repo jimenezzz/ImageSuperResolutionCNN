@@ -1,0 +1,111 @@
+{
+  "model": "fsrcnn",
+  "scale": 8,
+  "dataset_root": "/Users/jesusjimenez/Code/computational photography/final_project/datasets/DIV2K",
+  "train_split": "train",
+  "val_split": "val",
+  "best_epoch": 19,
+  "best_val_psnr": 12.027266996007931,
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.030502070383226963,
+      "val_psnr": 6.509288094314557
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.015248270440642954,
+      "val_psnr": 7.202963954039596
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.015202055980407749,
+      "val_psnr": 7.961072278340104
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.015208543158441898,
+      "val_psnr": 7.95764369341343
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.015191401871779817,
+      "val_psnr": 8.4584808811926
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.015168683985248208,
+      "val_psnr": 9.128539567453217
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.015164627676349483,
+      "val_psnr": 9.373958471981489
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.01518490168513381,
+      "val_psnr": 10.086358821496802
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.015195994908572175,
+      "val_psnr": 10.321596000444831
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.015142856504680821,
+      "val_psnr": 10.48097385990824
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.015149998583219713,
+      "val_psnr": 9.989882518023236
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.015182292210811283,
+      "val_psnr": 10.36351339803077
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.015110912828531583,
+      "val_psnr": 11.471975173834846
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.015135361366410506,
+      "val_psnr": 11.449822586841792
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.015145521547310636,
+      "val_psnr": 10.897453247196973
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.015163804688563686,
+      "val_psnr": 9.405514763486629
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.015149917868766351,
+      "val_psnr": 11.348827393352973
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.015168537676217966,
+      "val_psnr": 11.134842159614658
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.01507777419028571,
+      "val_psnr": 12.027266996007931
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.015182037769700401,
+      "val_psnr": 11.847208436882575
+    }
+  ]
+}

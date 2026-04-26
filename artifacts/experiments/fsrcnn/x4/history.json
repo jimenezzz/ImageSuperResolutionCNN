@@ -1,0 +1,111 @@
+{
+  "model": "fsrcnn",
+  "scale": 4,
+  "dataset_root": "/Users/jesusjimenez/Code/computational photography/final_project/datasets/DIV2K",
+  "train_split": "train",
+  "val_split": "val",
+  "best_epoch": 18,
+  "best_val_psnr": 29.204144298147327,
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.003823190597354369,
+      "val_psnr": 25.443033900917882
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.002262836922163842,
+      "val_psnr": 26.825314049618406
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.002205094077828562,
+      "val_psnr": 26.47984287558494
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.002180126571620349,
+      "val_psnr": 26.776016437204557
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.0021661684444347885,
+      "val_psnr": 27.9522919547302
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.002138164409636829,
+      "val_psnr": 28.002733802814422
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.0021428549975348685,
+      "val_psnr": 28.362594494405595
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.0021496648322204236,
+      "val_psnr": 28.667720749506927
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.0021165612945060275,
+      "val_psnr": 28.631234486850715
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.002131921573807176,
+      "val_psnr": 28.868989112335694
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.0021036272802894018,
+      "val_psnr": 29.053267972735004
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.0021259771009295037,
+      "val_psnr": 29.160109569191448
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.002120648143491053,
+      "val_psnr": 28.757580750848707
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.002091765240793393,
+      "val_psnr": 28.468652520473338
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.0021001735173399537,
+      "val_psnr": 28.693722697493698
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.002098020001626537,
+      "val_psnr": 29.125378494279445
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.0020809840834817806,
+      "val_psnr": 28.58138729918664
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.0020920181232145295,
+      "val_psnr": 29.204144298147327
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.0021140236435871883,
+      "val_psnr": 29.134630824699787
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.002092220017450472,
+      "val_psnr": 28.86523544802278
+    }
+  ]
+}
